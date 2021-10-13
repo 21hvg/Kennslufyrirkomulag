@@ -1,17 +1,12 @@
 # Kennslufyrirkomulag
 VEFÞ1VGA05U
 
-#### Github áfangageymsla
+* [Nýskráning Github reiknings (_User account_)](https://github.com/vefgrunnur/21H/wiki/N%C3%BDskr%C3%A1ning-%C3%A1-Github)
+* [Kennslufyrirkomulag](https://github.com/vefgrunnur/21H/wiki/Kennslufyrirkomulag)
+* [Undirbúniingur](https://github.com/vefgrunnur/21H/wiki/Undirbuningur)
+* [Inna/VEFÞ1VG05U](https://github.com/vefgrunnur/21H/wiki/Inna)
 
-1. Áfangageymslu er útlutað til allra nemenda í gegnum **INNU/VEFÞ1VG05U/Verkefni-1** með tilvísunartengli (_invitation link_) sem er í verklýsingunni 
-2. Nemendi afritar tilvísunina í vafra og Github sér um að búa til áfangageymsluna
-3. Öll verkefni sem lögð eru fyrir í áfanganum eru unnin í lokuðum (_privat_) áfangageymslum 
-4. Kennari leiðréttir verkefni beint í áfangageymslu nemenda
-5. Áfangageymslan auðveldar samstarf kennara og nemenda
-
-#### Einkunn er gefin fyrir verkefnin í Innu 
-
-#### Skjáfyrirlestur (_Youtube_)
+#### Skjáfyrirlestur (_Youtube 2020_)
 
 * Undirbúningur náms: https://youtu.be/PPwpF6yTX3Y
   * Github áfangageymsla (Classroom repository) stofnuð 

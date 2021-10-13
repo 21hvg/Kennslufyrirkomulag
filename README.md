@@ -3,7 +3,7 @@ VEFÞ1VGA05U
 
 * [Nýskráning Github reiknings (_User account_)](https://github.com/vefgrunnur/21H/wiki/N%C3%BDskr%C3%A1ning-%C3%A1-Github)
 * [Kennslufyrirkomulag](https://github.com/vefgrunnur/21H/wiki/Kennslufyrirkomulag)
-* [Undirbúniingur](https://github.com/vefgrunnur/21H/wiki/Undirbuningur)
+* [Undirbúningur](https://github.com/vefgrunnur/21H/wiki/Undirbuningur)
 * [Inna/VEFÞ1VG05U](https://github.com/vefgrunnur/21H/wiki/Inna)
 
 #### Skjáfyrirlestur (_Youtube 2020_)
